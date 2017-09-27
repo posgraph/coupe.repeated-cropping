@@ -10,9 +10,7 @@ This repository contains the source codes for repeated cropping for photo compos
 ## Requirements ##
 * Linux OS
 * Torch7
-  * Installation guides
-    * http://www.jetsonhacks.com/2015/05/20/torch-7-scientific-computer-framework-with-cudnn-nvidia-jetson-tk1/
-    * http://www.whydsp.org/279
+  * Installation guide in [English](http://www.jetsonhacks.com/2015/05/20/torch-7-scientific-computer-framework-with-cudnn-nvidia-jetson-tk1/) and [Korean](http://www.whydsp.org/279)
 
 ## Coupe Project Links ##
 * [Coupe Website](http://coupe.postech.ac.kr/)
