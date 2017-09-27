@@ -1,7 +1,13 @@
-# Photo Composition Enhancement Using Repeated Cropping #
+# Photo Recomposition Using Repeated Cropping #
 
 ## Introduction ##
-This repository contains the source codes for repeated cropping for photo composition enhancement.
+Repeated cropping is used to enhance the aesthetic quality of a photograph in terms of image composition.  
+
+This project uses a Convolutional Neural Network (CNN) to dictate iterative image cropping in order to improve the image composition. This automatic cropping is able to follow speciﬁc composition guidelines, such as the rule of thirds and the salient object size. 
+
+For more details regarding this technique, please refer to http://sunw.csail.mit.edu/abstract/CNN_based_Repeated.pdf
+
+
 
 ## Files ##
 * [main_using_saliency.lua](Repeated%20Cropping/main_using_saliency.lua) : Training Code
