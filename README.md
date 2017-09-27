@@ -4,8 +4,8 @@
 This repository contains the source codes for repeated cropping for photo composition enhancement.
 
 ## Files ##
-* [main_using_saliency.lua](Composition%20Score%20Calculator/getCompScore_demo.m) : Training Code
-* [inderence_dir.lua](Composition%20Score%20Calculator/getLine.m) : Test Code
+* [main_using_saliency.lua](Repeated%20Cropping/main_using_saliency.lua) : Training Code
+* [inference_dir.lua](Repeated%20Cropping/inference_dir.lua) : Test Code
 
 ## Requirements ##
 * Linux OS
