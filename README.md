@@ -1,14 +1,19 @@
-# Coupe Library Reference Manual #
+# Photo Composition Enhancement Using Repeated Cropping #
 
-__Coupe__ is an open source computational photography and image processing software library, which is developed by POSTECH computer graphics laboratory.
+## Introduction ##
+This repository contains the source codes for repeated cropping for photo composition enhancement.
 
-## Coupe Packages ##
+## Files ##
+* [main_using_saliency.lua](Composition%20Score%20Calculator/getCompScore_demo.m) : Training Code
+* [inderence_dir.lua](Composition%20Score%20Calculator/getLine.m) : Test Code
 
-  * Image Processing
-    * [bilateralTextureFiltering](bilateralTextureFiltering) decomposes textures from a given image.
-    * [deconvWithOutlier](deconvWithOutlier) is non-blind image deconvolution with outlier handling.
+## Requirements ##
+* Linux OS
+* Torch7
+  * Installation guides
+    * http://www.jetsonhacks.com/2015/05/20/torch-7-scientific-computer-framework-with-cudnn-nvidia-jetson-tk1/
+    * http://www.whydsp.org/279
 
-## Useful Links ##
-
-  * [Coupe Library](http://cg.postech.ac.kr/coupe)
-  * [POSTECH CG Lab.](http://cg.postech.ac.kr/)
+## Coupe Project Links ##
+* [Coupe Website](http://coupe.postech.ac.kr/)
+* [POSTECH CG Lab.](http://cg.postech.ac.kr/)
