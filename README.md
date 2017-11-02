@@ -27,7 +27,7 @@ If you use this code in a publication, please cite our paper.
        title     = {CNN based Repeated Cropping for Photo Composition Enhancement},
        author    = {Eunbin Hong, Junho Jeon, and Seungyong Lee},
        booktitle = {CVPR},
-       year      = {[2017}
+       year      = {2017}
     }
 ```
 
