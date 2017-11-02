@@ -5,11 +5,18 @@ Repeated cropping is used to enhance the aesthetic quality of a photograph in te
 
 This project uses a Convolutional Neural Network (CNN) to dictate iterative image cropping in order to improve the image composition. This automatic cropping is able to follow speciﬁc composition guidelines, such as the rule of thirds and the salient object size. 
 
-For more details regarding this technique, please refer to http://sunw.csail.mit.edu/abstract/CNN_based_Repeated.pdf
+For more details regarding this technique, please refer to http://sunw.csail.mit.edu/abstract/CNN_based_Repeated.pdf  
+  
+* Examples of repeated cropping procedure  
+![Repeated Cropping Example](docs/images/repeated-cropping-example.png)  
+* Framework of repeated cropping  
+![Repeated Cropping Framework](docs/images/repeated-croping-framework.png)
 
 ## Files ##
 * [main_using_saliency.lua](Repeated%20Cropping/main_using_saliency.lua) : Training Code
 * [inference_dir.lua](Repeated%20Cropping/inference_dir.lua) : Test Code
+
+\* Trained model will be uploaded later
 
 ## Requirements ##
 * Linux OS
