@@ -23,7 +23,7 @@ For more details regarding this technique, please refer to http://sunw.csail.mit
 * Torch7
   * Installation guide in [English](http://www.jetsonhacks.com/2015/05/20/torch-7-scientific-computer-framework-with-cudnn-nvidia-jetson-tk1/) and [Korean](http://www.whydsp.org/279)
 
-## Licence ##
+## License ##
 
 This software is being made available for research purpose only. Check [LICENSE](LICENSE) file for details.  
   
