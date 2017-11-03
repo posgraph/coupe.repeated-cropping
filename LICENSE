@@ -39,7 +39,7 @@ You may use this work subject to the following conditions:
     @inproceedings{hong2017cnnbased,
        title={CNN based Repeated Cropping for Photo Composition Enhancement},
        author={Eunbin Hong, Junho Jeon, and Seungyong Lee},
-       booktitle={CVPR},
+       booktitle={CVPR Workshop},
        year={2017}
     }
 
