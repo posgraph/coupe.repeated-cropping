@@ -1,8 +1,7 @@
 # Photo Recomposition Using Repeated Cropping #
+This framework iteratively predicts cropping directions for a given photo, generating an aesthetically enhanced photo in terms of composition. 
 
 ## Introduction ##
-This framework iteratively predict cropping directions for a given photo, generating an aesthetically enhanced photo in terms of composition.  
-  
 The overall framework is inspired from [\[1\]](#references), which estimates an exact object bounding box, but we have a different goal to find a bounding box satisfying the composition rules. We estimate an optimal bounding box by aggregating many weak predictions for better image composition derived from a CNN. The network outputs two predictions for moving the top-left (TL) and the bottom-right (BR) corners of the input image. We then crop the image by moving the two corners in the predicted directions with a fixed length. By repeating the prediction and cropping, we can produce the recomposed image following photo composition guidelines (e.g., rule of thirds, salient object size).  
   
 For more details regarding this technique, please refer to http://sunw.csail.mit.edu/abstract/CNN_based_Repeated.pdf  
