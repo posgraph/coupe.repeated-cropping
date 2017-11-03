@@ -41,6 +41,11 @@ If you use this code in a publication, please cite our paper.
 ## Contact ##
 Eunbin Hong (hong5827 [at] postech [dot] ac [dot] kr)
 
+## About Coupe Project ##
+
+Project ‘COUPE’ aims to develop software that evaluates and improves the quality of images and videos based on big visual data. To achieve the goal, we extract sharpness, color, composition features from images and develop technologies for restoring and improving by using it. In addition, personalization technology through user preference analysis is under study.  
+  
+Please checkout out other Coupe repositories in our [Posgraph](https://github.com/posgraph) github organization.
 
 ## Coupe Project Links ##
 * [Coupe Website](http://coupe.postech.ac.kr/)
