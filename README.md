@@ -62,6 +62,6 @@ Please checkout out other Coupe repositories in our [Posgraph](https://github.co
 * [POSTECH CG Lab.](http://cg.postech.ac.kr/)
 
 ## References ##
-\[1\] D. Yoo, S. Park, J.-Y. Lee, A. S. Paek, and I. So Kweon. Attentionnet: Aggregating weak directions for accurate object detection. In Proc. ICCV, pages 2659–2667, 2015
+\[1\] D. Yoo, S. Park, J.-Y. Lee, A. S. Paek, and I. So Kweon. Attentionnet: Aggregating weak directions for accurate object detection. In Proc. ICCV, pages 2659–2667, 2015  
 \[2\] K. Chatfield, K. Simonyan, A. Vedaldi, and A. Zisserman. Return of the devil in the details: Delving deep into convolutional nets. In Proc. BMVC, 2014
 
