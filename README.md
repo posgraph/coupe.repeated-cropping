@@ -34,7 +34,9 @@ We use the VGG-M network [\[2\]](#references) as our base structure. Instead of 
 
 ## License ##
 
-This software is being made available for research purpose only. Check [LICENSE](LICENSE) file for details.  
+This software is being made available under the terms in the [LICENSE](LICENSE) file.
+
+Exemptions to the licensing terms can be negotiated, please contact [Pohang University of Science and Technology](http://www.postech.ac.kr) for more information.
   
 If you use this code in a publication, please cite our paper.  
   
