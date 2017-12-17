@@ -36,7 +36,7 @@ We use the VGG-M network [\[2\]](#references) as our base structure. Instead of 
 
 This software is being made available under the terms in the [LICENSE](LICENSE) file.
 
-Exemptions to the licensing terms can be negotiated, please contact [Pohang University of Science and Technology](http://www.postech.ac.kr) for more information.
+Any exemptions to these terms requires a license from the Pohang University of Science and Technology.
   
 If you use this code in a publication, please cite our paper.  
   
